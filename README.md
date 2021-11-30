@@ -5,20 +5,14 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run backend to start up JSON Server
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm run backend
 ```
 
-### Lints and fixes files
+### Compile for development
 ```
-npm run lint
+npm start
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Json server holds movies with all info for details. With Json server running you are also able to add new movies.
